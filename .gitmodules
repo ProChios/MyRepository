@@ -1,6 +1,6 @@
 [submodule "_images"]
 	path = _images
-	url = https://github.com/ProChios/_images.git
+	url = https://github.com/std145280/_images.git
 [submodule "_TT"]
 	path = _TT
 	url = https://github.com/ProChios/_TT.git
